@@ -10,9 +10,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/87ceb96e-be24-4b14-a123-18845a42a3c6)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/a8d5ae03-cb3b-4f84-9817-c3b36b377c40)
 
 
 
@@ -48,9 +50,12 @@ Write a C Program to check whether the two numbers are equal or not using simple
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/92c1348a-5107-47f1-9ff1-cca670f25b13)
+
 
 ## OUTPUT
-           
+  ![image](https://github.com/user-attachments/assets/d604229f-2c3b-4307-85e4-c3766b907165)
+         
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -70,8 +75,10 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/2ef31db8-7c1f-47be-9434-79856b544f1f)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/37f07699-abd6-424c-8813-35d03743e438)
 
 
 
@@ -95,9 +102,11 @@ Write a C Program to count the total number of words in a given string using do 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/2750b356-be91-4f11-8635-d59d0cf27940)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/94c0910f-44ec-4524-839d-bf6075700701)
 
 
 
@@ -129,9 +138,12 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/f62c5050-2574-4e51-b1c2-93081397d37b)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/fcb93161-835d-4d17-aa09-8e4d92bedab2)
+
  
 
 ## RESULT
